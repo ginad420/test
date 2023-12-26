@@ -1,0 +1,13 @@
+{
+    "type": "module",
+    "dependencies": {
+        "discord.js": "^14.7.1",
+        "sequelize": "^6.26.0",
+        "sqlite3": "^5.1.2",
+        "dotenv": "^16.0.0",
+        "lodash": "^4.17.21",
+        "node-localstorage": "^2.2.1",
+        "node-schedule": "^2.1.0",
+        "xhr2": "^0.2.1"
+    }
+}
